@@ -1,0 +1,9 @@
+<!-- Empleats de la organitzacio-->
+<empleats>
+    <empleat>
+        <nom></nom>
+        <cognom></cognom>
+        <direccio></direccio>
+        <telefon></telefon>
+    </empleat>
+</empleats>
