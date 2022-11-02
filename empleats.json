@@ -1,0 +1,22 @@
+{
+    "empleats": {
+        "empleat": [
+            {
+                "nom": "Lorem",
+                "cognom": "Lorem Ipsum",
+                "direccio": "Lorem, ipsum dolor",
+                "ciutat": "Lorem Ipsum",
+                "email": "exemple@exemple.com",
+                "telefon": 999999999
+            },
+            {
+                "nom": "Ipsum",
+                "cognom": "Ipsum Lorem",
+                "direccio": "Lorem, ipsum dolor",
+                "ciutat": "Ipsum Lorem",
+                "email": "user@user.com",
+                "telefon": 888888888
+            }
+        ]
+    }
+}

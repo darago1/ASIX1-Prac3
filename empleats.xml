@@ -1,9 +1,19 @@
 <!-- Empleats de la organitzacio-->
 <empleats>
     <empleat>
-        <nom></nom>
-        <cognom></cognom>
-        <direccio></direccio>
-        <telefon></telefon>
+        <nom>Lorem</nom>
+        <cognom>Lorem Ipsum</cognom>
+        <direccio>Lorem, ipsum dolor</direccio>
+        <ciutat>Lorem Ipsum</ciutat>
+        <email>exemple@exemple.com</email>
+        <telefon>999999999</telefon>
+    </empleat>
+    <empleat>
+        <nom>Ipsum</nom>
+        <cognom>Ipsum Lorem</cognom>
+        <direccio>Lorem, ipsum dolor</direccio>
+        <ciutat>Ipsum Lorem</ciutat>
+        <email>user@user.com</email>
+        <telefon>888888888</telefon>
     </empleat>
 </empleats>
